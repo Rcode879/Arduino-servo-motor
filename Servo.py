@@ -4,7 +4,7 @@ from time import sleep
 port = 'COM3' #usb pin
 pin = 10 #pin which servo is connected to on digital
 board = pyfirmata.Arduino(port)
-board.digital[pin].mode = SERVO#
+board.digital[pin].mode = SERVO
 
 def rotate_servo(pin,angle):
      board.digital[pin].write(angle)
