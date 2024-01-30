@@ -1,7 +1,7 @@
 # Arduino-servo-motor
 Uses python to control servo motor connected to arduino microcontroller.It uses python rather than the traditional arduino IDE language. You input and angle of choice and your servo motor will turn to that angle.
 
-Required:
+## Required:
 
 -pyfirmata
 
@@ -9,7 +9,7 @@ Required:
 
 -Arduino IDE in built firmata custom library
 
-Key information:
+## Key information:
 
 -Before starting, upload the firmata code (this can be found in your arduino IDE custom libraries in "Firmata/StandardFirmata") from the arduino IDE into your arduino microcontroller
 
@@ -21,7 +21,7 @@ Key information:
 
 -No wiring diagram is provided
 
-Troubleshooting:
+## Troubleshooting:
 
 -Check your computer COM port which the arduino is connected to
 
