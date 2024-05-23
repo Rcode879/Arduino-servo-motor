@@ -31,3 +31,4 @@ Uses python to control servo motor connected to arduino microcontroller.It uses 
 
 -Check you have uploaded the "StandardFirmata" code to the arduino before running the python code
 
+-Servo motors (generally)do not turn more than 180 degrees 
