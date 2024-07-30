@@ -25,9 +25,9 @@ Uses python to control servo motor connected to arduino microcontroller.It uses 
 
 -Check your computer COM port which the arduino is connected to
 
--Check is you have wired your physical servo motor to the Arduino correctly
+-Check if you have wired your physical servo motor to the Arduino correctly
 
--Check is you have selected the correct Arduino board on the Arduino IDE
+-Check if you have selected the correct Arduino board on the Arduino IDE
 
 -Check you have uploaded the "StandardFirmata" code to the arduino before running the python code
 
